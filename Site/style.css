@@ -1,4 +1,28 @@
 body{
-    background-color:#7FFFD4;
+    background-image: url('https://th.bing.com/th/id/R.82e60ad3ca57971480c8be59a58834e1?rik=6ZpsUIFabVdBqg&pid=ImgRaw&r=0');
+    background-repeat: repeat;
     color: Black;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.titulo_um{
+    color: azure;
+}
+
+#ordened_list{
+    color: blue;
+}
+
+.mybutton{
+
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blue;
+    color: rgb(12, 12, 54);
+    border-color: blueviolet;
+    border-width: 15px;
+    border-style: dashed solid;
 }
