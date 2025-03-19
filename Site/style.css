@@ -26,3 +26,28 @@ body{
     border-width: 15px;
     border-style: dashed solid;
 }
+
+.primeira_div {
+
+    height: 400px;
+    background-color: aquamarine;
+    color: orange;
+    display: flex;
+    margin: 50px;
+}
+
+.div_item_1{
+
+    background-color: brown; 
+    height: 300px;
+    display: inline;
+    margin: 50px;
+}
+
+.div_item_2{
+
+    background-color:burlywood ;
+    height: 200px;
+    display: inline;
+
+}
